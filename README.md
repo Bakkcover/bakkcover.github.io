@@ -1,6 +1,3 @@
-# Overview
-Welcome to the developer guide for Bakkcover!
-
 # Project Members
 1. Ezra Yeo
 2. James Yeap
