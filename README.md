@@ -1,2 +1,2 @@
 # bakkcover.github.io
-Developers Guide
+Developer Guide
