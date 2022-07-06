@@ -2,6 +2,7 @@
 layout: default
 title: User Authentication
 nav_order: 1
+has_children: true
 ---
 
 Users are created and authenticated through a Spring Boot instance and AWS Cognito.
