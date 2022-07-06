@@ -8,15 +8,11 @@ nav_order: 1
 # Login
 {: .no_toc }
 
-<details open markdown="block">
-    <summary>
-        Table of contents
-    </summary>
+## Table of Contents
+{: .no_toc .text-delta }
 
 - TOC
 {:toc}
-
-</details>
 
 ## Overview
 An existing user will log in with:
