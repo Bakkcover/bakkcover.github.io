@@ -5,6 +5,7 @@ parent: User Authentication
 nav_order: 1
 ---
 
+# Login
 An existing user will log in with:
 * Username
 * Password

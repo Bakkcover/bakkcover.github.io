@@ -5,5 +5,5 @@ parent: User Authentication
 nav_order: 3
 ---
 
-# After successful registration/login
-A user will be redirected to the My Account Page.
+# Post Authentication
+After successful registration or login, the user will be redirected to the My Account page.

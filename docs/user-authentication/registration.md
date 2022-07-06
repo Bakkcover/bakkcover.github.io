@@ -5,6 +5,7 @@ parent: User Authentication
 nav_order: 2
 ---
 
+# Registration
 To register for a new account, a user will provide:
 * Username
 * Email
