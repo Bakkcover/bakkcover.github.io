@@ -6,12 +6,11 @@ nav_order: 1
 ---
 
 # Login
-{: .no_toc }
 
 ## Table of contents
 {: .no_toc .text-delta }
 
-1. {:toc}
+{:toc}
 
 ## Overview
 An existing user will log in with:
