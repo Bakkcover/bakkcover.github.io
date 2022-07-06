@@ -6,11 +6,19 @@ nav_order: 1
 ---
 
 # Login
+{: .no_toc }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+{:toc}
+
+## Overview
 An existing user will log in with:
 * Username
 * Password
 
-# Implementation
+## Implementation
 When a user logs in, the username and password provided is authenticated with AWS Cognito.
 
 If successful, a JWT token is returned and stored on Local Storage in the browser. 
