@@ -11,7 +11,7 @@ nav_order: 1
 ## Table of contents
 {: .no_toc .text-delta }
 
-{:toc}
+1. {:toc}
 
 ## Overview
 An existing user will log in with:
