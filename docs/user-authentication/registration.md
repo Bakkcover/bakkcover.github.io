@@ -12,7 +12,7 @@ nav_order: 2
 {: .no_toc .text-delta }
 
 - TOC
-  {:toc}
+{:toc}
 
 ## Overview
 To register for a new account, a user will provide:
