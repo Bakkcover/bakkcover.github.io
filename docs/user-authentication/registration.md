@@ -29,8 +29,10 @@ When a user registers for a new account:
     * password
 * The creation of a new user in the User Pool then triggers an AWS Lambda function:
     * This function auto-confirms the user; the user does not need to manually confirm the registration via a confirmation email
+    * [See code](https://github.com/Bakkcover/lambda-bakkcover-cognito-autoConfirmUser)
 * After the user is confirmed, another Lambda function is triggered:
     * This function adds a new entry to the 'users' table in an AWS RDS instance
     * Rationale:
         * Allows for additional attributes to be added to users in the future (Address, Biography, etc).
         * Allows user details to be returned in backend queries through JOIN operations.
+    * [See code](https://github.com/Bakkcover/lambda-bakkcover-cognito-addUserToRds)
