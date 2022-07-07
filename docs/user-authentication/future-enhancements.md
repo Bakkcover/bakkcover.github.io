@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Registration
+title: Future Enhancements
 parent: User Authentication
-nav_order: 3
+nav_order: 4
 ---
 
 # Future Enhancements
