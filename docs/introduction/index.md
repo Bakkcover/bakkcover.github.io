@@ -20,4 +20,4 @@ For our backend, we went with Spring Boot as it seems to be widely-used by enter
 # Deployment
 We deployed our application on Amazon Web Service's cloud infrastructure, because its user interface seemed pretty fun, and fun is good.
 
-[See our Solution Architecture documentation](https://bakkcover.github.io/docs/solution-architecture/){: .btn .btn-purple }
+[See our Solution Architecture documentation](https://bakkcover.github.io/docs/solution-architecture/){: .btn .btn-green }
